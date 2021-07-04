@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="60px" height="80px" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="1096" y1="911" x2="1096" y2="991" id="LinearGradient119">
+      <stop id="Stop120" stop-color="#ff0000" offset="0" />
+      <stop id="Stop121" stop-color="#e4e4e4" offset="1" />
+    </linearGradient>
+  </defs>
+  <g transform="matrix(1 0 0 1 -1066 -911 )">
+    <path d="M 1125.5 923  C 1125.5 923  1125.5 979  1125.5 979  C 1125.5 985.608  1112.1 990.5  1096 990.5  C 1079.9 990.5  1066.5 985.608  1066.5 979  C 1066.5 979  1066.5 923  1066.5 923  C 1066.5 916.392  1079.9 911.5  1096 911.5  C 1112.1 911.5  1125.5 916.392  1125.5 923  Z " fill-rule="nonzero" fill="url(#LinearGradient119)" stroke="none" />
+    <path d="M 1066.5 923.35  C 1066.5 916.714  1079.48 911.5  1096 911.5  C 1112.52 911.5  1125.5 916.714  1125.5 923.35  C 1125.5 923.35  1125.5 978.65  1125.5 978.65  C 1125.5 985.286  1112.52 990.5  1096 990.5  C 1079.48 990.5  1066.5 985.286  1066.5 978.65  C 1066.5 978.65  1066.5 923.35  1066.5 923.35  Z " stroke-width="1" stroke="#797979" fill="none" />
+    <path d="M 1125.5 923  C 1125.5 929.44  1112.52 934.5  1096 934.5  C 1079.48 934.5  1066.5 929.44  1066.5 923  " stroke-width="1" stroke="#797979" fill="none" />
+  </g>
+</svg>
