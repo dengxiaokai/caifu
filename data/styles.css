@@ -3,12 +3,9 @@
   font-weight:400;
   font-style:normal;
   font-size:13px;
-  letter-spacing:normal;
   color:#333333;
-  vertical-align:none;
   text-align:center;
   line-height:normal;
-  text-transform:none;
 }
 .box_1 {
 }
@@ -83,11 +80,6 @@
 ._文本段落 {
   text-align:left;
 }
-._表单提示 {
-  color:#999999;
-}
-._表单禁用 {
-}
 ._流程形状 {
 }
 .line {
@@ -123,7 +115,7 @@
 .table_cell {
 }
 .iconfont {
-  font-family:'iconfont Normal', 'iconfont';
+  font-family:'iconfont Regular', 'iconfont';
   font-weight:400;
   font-style:normal;
   font-size:18px;
@@ -261,4 +253,3 @@
 }
 ._单元格 {
 }
-textarea, select, input, button { outline: none; }
